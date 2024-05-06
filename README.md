@@ -29,3 +29,7 @@ I'm a Full Stack Software Engineer with 4 years of experience specializing in we
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-blue.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/abdullahrafi1
 
+
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iar01&theme=light&layout=compact)
+
