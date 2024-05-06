@@ -8,7 +8,7 @@ I'm a Full Stack Software Engineer with 4 years of experience specializing in we
 - 🌱 I’m currently learning more about cloud services and advanced React techniques.
 - 👯 I’m looking to collaborate on open source projects that are using Django and React.
 - 💬 Ask me about anything related to Python, Django, React.js, and web development in general.
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: [your-email@example.com](mailto:abdullahrafi@outlook.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play chess and explore new technologies!
 
@@ -19,15 +19,6 @@ I'm a Full Stack Software Engineer with 4 years of experience specializing in we
 - **Databases:** Experience with SQL and NoSQL solutions
 - **Tools:** Docker, Git, Jenkins
 
-## Projects
-
-*Here you can list some of your notable projects along with brief descriptions and links to the repositories.*
-
-### [Project Name](#)
-_Description and details about the project._
-
-### [Project Name](#)
-_Description and details about the project._
 
 ## Connect with me
 
@@ -36,5 +27,5 @@ _Description and details about the project._
 <!-- Links to your social media accounts -->
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-blue.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/yourusername
+[linkedin-url]: https://linkedin.com/in/abdullahrafi1
 
