@@ -1,7 +1,3 @@
-Here's an updated and enhanced version of your GitHub README file incorporating details from your CV:
-
----
-
 # Hi there 👋
 
 ## About Me
