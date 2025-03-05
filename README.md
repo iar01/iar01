@@ -60,7 +60,7 @@ I'm a **Full Stack Software Engineer** with 4+ years of experience specializing 
 
 ### **COMSATS University**  
 **Bachelor of Science in Software Engineering**  
-*Feb. 2015 - Jan. 2019 | Lahore, Pakistan*  
+*Feb. 2017 - Jan. 2021 | Lahore, Pakistan*  
 - **Final Year Project:** Django-React web app for project management  
 
 ---
