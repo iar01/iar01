@@ -104,8 +104,6 @@ API Integration • Payment Gateway Integration • Cloud Architecture • Real-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iar01&theme=radical&layout=compact&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iar01&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
 ---
 
 **Let's build something amazing together!** 🚀
